@@ -18,7 +18,8 @@ A simple "Contact Us" form built using HTML, CSS, and JavaScript. The form inclu
    HTML (ContactUs.html),
    CSS (ContactUs.css),
    JavaScript (Contact.js)
-# Open ContactUs file------>ContactUs.html to use the page.
+# To run the Page
+  Clone the repo-------->Open ContactUs file------>ContactUs.html to use the page.
 
 # Course-API
 A simple RESTful API built with Node.js and Express that allows for CRUD (Create, Read, Update, Delete) operations on courses.
