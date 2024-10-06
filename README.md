@@ -15,9 +15,9 @@ A simple "Contact Us" form built using HTML, CSS, and JavaScript. The form inclu
    Logs submitted form data to the browser's console,
    Responsive design for better user experience.
 4) Technology Stack
-   HTML,
-   CSS,
-   JavaScript,
-# Open ContactUs file------>ContactUs.html
+   HTML (ContactUs.html),
+   CSS (ContactUs.css),
+   JavaScript (Contact.js)
+# Open ContactUs file------>ContactUs.html to use the page.
 
 
