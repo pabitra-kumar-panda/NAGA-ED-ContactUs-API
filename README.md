@@ -41,7 +41,7 @@ A simple RESTful API built with Node.js and Express that allows for CRUD (Create
   4) Start the server: After installing the dependencies, start the server with (node server.js)
   5) The server should be running at http://localhost:3000/
 
-# Use POSTMAN to test the API
+# Use POSTMAN to test the API (https://www.postman.com/downloads/)
   # Add a new course. Make sure to include the required fields in the request body (title, description, duration).
    
   1) Create New HTTP-------->Add operation (POST) for adding data---------->Paste the server link http://localhost:3000/courses ----------->Add the data to the body
