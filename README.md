@@ -5,17 +5,19 @@ A simple "Contact Us" form built using HTML, CSS, and JavaScript. The form inclu
 
 # Features
 1) Input fields for:
-   Name
-   Email
+   Name,
+   Email,
    Message
 2) Input validation:
-   All fields are required.
+   All fields are required,
    Valid email format is checked.
-3) Display of a success message upon form submission.
-   Logs submitted form data to the browser's console.
+3) Display of a success message upon form submission 
+   Logs submitted form data to the browser's console,
    Responsive design for better user experience.
 4) Technology Stack
-   HTML
-   CSS
-   JavaScript
+   HTML,
+   CSS,
+   JavaScript,
+# Open ContactUs file------>ContactUs.html
+
 
